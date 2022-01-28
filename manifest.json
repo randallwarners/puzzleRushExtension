@@ -1,9 +1,9 @@
 {
-  "manifest_version": 2,
   "name": "Puzzle Rush Extension",
-  "version": "0.2.0",
-
   "description": "Add a button to view incorrect puzzles.",
+  "homepage_url": "https://github.com/randallwarners/puzzleRushExtension",
+  "manifest_version": 2,
+  "version": "0.2.0",
 
   "content_scripts": [
     {
